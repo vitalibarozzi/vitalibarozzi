@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Vitali, a brazillian Haskell developer. Talk to me about compilers ⚡.
+
 <!--
 **vitalibarozzi/vitalibarozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
