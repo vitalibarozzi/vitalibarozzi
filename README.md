@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vitali (he/him), a brazillian 🇧🇷  Haskell developer. 
+I'm Vitali (he/him), a brazilian 🇧🇷  Haskell developer. 
 
 Talk to me about compilers ⚡.
 
